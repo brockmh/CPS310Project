@@ -30,7 +30,8 @@ This analysis examines the core components of the University Administrative Syst
 
 
 ### D. References
-- Any documents referred to in the creation of this systems analysis.
+CPS 310 Course Materials
+University of Dayton Administrative System Documentation
 
 ### E. Overview
 - A short description of the rest of the document, detailing what each section covers and where information may be found.
