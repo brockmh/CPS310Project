@@ -3,7 +3,7 @@
 ## 1. Introduction
 
 ### a. Purpose
-- Summarize the project, including a short description of the purpose of the system being built.
+- The purpose of this project is to analyze and define the system requirements for an improved University of Dayton System. This system aims to streamline key student and faculty interactions, including applying to the university, scheduling for classes, withdrawing from class, accessing your transcript, final class grade submission, changing your major, Withdrawing from school, and graduation processing. By addressing inefficiencies in the existing processes, this system will enhance usability, accuracy, and accessibility for all users. The purpose of this document is to provide a detailed analysis of the system being developed to improve university administrative processes. 
 
 ### b. Scope
 - A clear description of what portions of this project this document is intended to cover.
