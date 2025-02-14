@@ -21,45 +21,47 @@ The purpose of this project is to analyze and define the system requirements for
 This analysis examines the core components of the University Administrative System, focusing on their interactions with students, faculty, and administrative staff. It will exclude implementation details and the integration services outside the university of Dayton’s existing infrastructure. This document provides an overview of the system, detailed functionalities, user interaction flows, system constraints, and underlying assumptions.
 
 
-### c. Definitions & Acronyms
-Students: Will interact with the system for applications, enrollment, transcript access, and graduation processing.
-Faculty: Will use the system for grade submission and course management.
-Administrators: Will handle application processing, academic record management, and graduation approvals.
+### C. Definitions & Acronyms
+
+- DFD - Data Flow Diagram - A visual representation of how data moves through a system
+- ERD - Entity Relationship Diagram - A visual model that shows how entities relate to each other
+- Use Case - A description of system behavior under specific conditions 
+- UD - University of Dayton - The University of Dayton is a private, Catholic research university in Dayton, Ohio, United States. Founded in 1850 by the Society of Mary
 
 
-### d. References
+### D. References
 - Any documents referred to in the creation of this systems analysis.
 
-### e. Overview
+### E. Overview
 - A short description of the rest of the document, detailing what each section covers and where information may be found.
 
 ---
 
 ## 2. Overall Description
 
-### a. Product Perspective
+### A. Product Perspective
 - An overview of the environment that this system must operate within, including other software and hardware systems that will interface with this system.
 
-### b. Product Functions
+### B. Product Functions
 - An overview of the features to be provided by the software.
 
-### c. User Characteristics
+### C. User Characteristics
 - Description of the types of users that will interact with this software and assumed properties of those users.
 
-### d. Constraints
+### D. Constraints
 - Any constraints that have been placed on the project (that are not, in themselves, requirements).
 
-### e. Assumptions
+### E. Assumptions
 - Any assumptions that are being made in specifying these requirements.
 
 ---
 
 ## 3. Systems Analysis
 
-### a. Context Level Data Flow Diagram
+### A. Context Level Data Flow Diagram
 
-### b. Context Level Entity Relationship Diagram
+### B. Context Level Entity Relationship Diagram
 
-### c. Use Cases
+### C. Use Cases
 #### i. Scenarios
 #### ii. Diagram(s)
