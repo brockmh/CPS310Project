@@ -2,11 +2,12 @@
 
 ## 1. Introduction
 
-### a. Purpose
-- The purpose of this project is to analyze and define the system requirements for an improved University of Dayton System. This system aims to show student and faculty interactions, including applying to the university, scheduling for classes, withdrawing from class, accessing your transcript, final class grade submission, changing your major, Withdrawing from school, and graduation processing. By addressing inefficiencies in the existing processes, this system will enhance usability, accuracy, and accessibility for all users. The purpose of this document is to provide a detailed analysis of the system being developed to improve university administrative processes. 
+### A. Purpose
+The purpose of this project is to analyze and define the system requirements for an improved University of Dayton System. This system aims to show student and faculty interactions, including applying to the university, scheduling for classes, withdrawing from class, accessing your transcript, final class grade submission, changing your major, withdrawing from school, and graduation processing. By addressing all of the inefficiencies in the existing processes, this system will enhance usability, accuracy, and accessibility for all users. The purpose of this document is to provide a detailed analysis of the system being developed to improve university administrative processes. 
 
-### b. Scope
-- This document outlines the functional and non-functional requirements of the University Administrative System, including:
+
+### B. Scope
+**This document outlines the functional and non-functional requirements of the University Administrative System, including:**
   
 1. Student application submission and tracking
 2. Course scheduling and enrollment management
