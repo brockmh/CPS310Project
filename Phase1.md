@@ -3,10 +3,22 @@
 ## 1. Introduction
 
 ### a. Purpose
-- The purpose of this project is to analyze and define the system requirements for an improved University of Dayton System. This system aims to streamline key student and faculty interactions, including applying to the university, scheduling for classes, withdrawing from class, accessing your transcript, final class grade submission, changing your major, Withdrawing from school, and graduation processing. By addressing inefficiencies in the existing processes, this system will enhance usability, accuracy, and accessibility for all users. The purpose of this document is to provide a detailed analysis of the system being developed to improve university administrative processes. 
+- The purpose of this project is to analyze and define the system requirements for an improved University of Dayton System. This system aims to show student and faculty interactions, including applying to the university, scheduling for classes, withdrawing from class, accessing your transcript, final class grade submission, changing your major, Withdrawing from school, and graduation processing. By addressing inefficiencies in the existing processes, this system will enhance usability, accuracy, and accessibility for all users. The purpose of this document is to provide a detailed analysis of the system being developed to improve university administrative processes. 
 
 ### b. Scope
-- A clear description of what portions of this project this document is intended to cover.
+- This document outlines the functional and non-functional requirements of the University Administrative System, including:
+  
+1. Student application submission and tracking
+2. Course scheduling and enrollment management
+3. Grade submission and transcript viewing
+4. Major change requests and processing
+5. Graduation eligibility verification and approvals 
+6. Withdrawing from class
+7. Withdrawing from school
+8. Changing your major 
+
+This analysis examines the core components of the University Administrative System, focusing on their interactions with students, faculty, and administrative staff. It will exclude implementation details and the integration services outside the university of Dayton’s existing infrastructure. This document provides an overview of the system, detailed functionalities, user interaction flows, system constraints, and underlying assumptions.
+
 
 ### c. Definitions & Acronyms
 - Define any terms used in the document that may not be obvious to the reader.
