@@ -22,7 +22,10 @@ This analysis examines the core components of the University Administrative Syst
 
 
 ### c. Definitions & Acronyms
-- Define any terms used in the document that may not be obvious to the reader.
+Students: Will interact with the system for applications, enrollment, transcript access, and graduation processing.
+Faculty: Will use the system for grade submission and course management.
+Administrators: Will handle application processing, academic record management, and graduation approvals.
+
 
 ### d. References
 - Any documents referred to in the creation of this systems analysis.
