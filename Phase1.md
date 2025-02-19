@@ -35,7 +35,7 @@ This analysis examines the core components of the University Administrative Syst
 - Group members as Students
 
 ### E. Overview
-- A short description of the rest of the document, detailing what each section covers and where information may be found.
+- This system is designed to make the university system easier to use by handling student applications, class registration, academic records, major changes, transcripts, and graduation. It focuses on four main groups—Students, Registrars, Faculty, and Administration— Using a Data-Flow Diagram, Entity-Relationship Diagram, and a Use-Case Diagram . The goal is to improve efficiency, reduce mistakes, and create a user-friendly system for students, teachers, and administrators. 
 
 ---
 
@@ -48,16 +48,16 @@ This analysis examines the core components of the University Administrative Syst
 - An overview of the features to be provided by the software.
 
 ### C. User Characteristics
-- Student (StudentID, Name, DateOfBirth, Major)
-- Registrar (RegistrarID, Name, Role,)
-- Faculty (FacultyID, Name, Department)
-- Administration (AdminID, Name, Position)
+1. Student (StudentID, Name, DateOfBirth, Major)
+2. Registrar (RegistrarID, Name, Role,)
+3. Faculty (FacultyID, Name, Department)
+4. Administration (AdminID, Name, Position)
 
 ### D. Constraints
 - Any constraints that have been placed on the project (that are not, in themselves, requirements).
 
 ### E. Assumptions
-- Any assumptions that are being made in specifying these requirements.
+- One assumption we are going by is that within this phase their are no errors when using the system and it runs perfectly. This will chnage as we dive deeper into each diagram during the other phases, where we will have to account for these errors and how they will be addressed. 
 
 ---
 
