@@ -32,6 +32,7 @@ This analysis examines the core components of the University Administrative Syst
 ### D. References
 - CPS 310 Course Materials
 - University of Dayton Administrative System Documentation
+- Group members as Students
 
 ### E. Overview
 - A short description of the rest of the document, detailing what each section covers and where information may be found.
@@ -47,7 +48,10 @@ This analysis examines the core components of the University Administrative Syst
 - An overview of the features to be provided by the software.
 
 ### C. User Characteristics
-- Description of the types of users that will interact with this software and assumed properties of those users.
+- Student (StudentID, Name, DateOfBirth, Major)
+- Registrar (RegistrarID, Name, Role,)
+- Faculty (FacultyID, Name, Department)
+- Administration (AdminID, Name, Position)
 
 ### D. Constraints
 - Any constraints that have been placed on the project (that are not, in themselves, requirements).
