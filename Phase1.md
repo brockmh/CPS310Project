@@ -61,6 +61,9 @@ This analysis examines the core components of the University Administrative Syst
 
 ### A. Context Level Data Flow Diagram
 
+![DFD drawio (1)](https://github.com/user-attachments/assets/38aabe71-4d8f-427b-b843-465b02097d8c)
+
+
 ### B. Context Level Entity Relationship Diagram
 
 ### C. Use Cases
