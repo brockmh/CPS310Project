@@ -66,6 +66,9 @@ This analysis examines the core components of the University Administrative Syst
 
 ### B. Context Level Entity Relationship Diagram
 
+![Entity drawio](https://github.com/user-attachments/assets/bdaafce3-c6b0-4095-a4bd-5c8d231b4055)
+
+
 ### C. Use Cases
 #### i. Scenarios
 #### ii. Diagram(s)
