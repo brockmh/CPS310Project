@@ -11,12 +11,12 @@ The purpose of this project is to analyze and define the system requirements for
   
 1. Student application submission and tracking
 2. Course scheduling and enrollment management
-3. Grade submission and transcript viewing
-4. Major change requests and processing
-5. Graduation eligibility verification and approvals 
-6. Withdrawing from class
-7. Withdrawing from school
-8. Changing your major 
+3. Final Grade submission
+4. transcript viewing
+5. Major change requests and processing
+6. Graduation eligibility verification and approvals 
+7. Withdrawing from class
+
 
 This analysis examines the core components of the University Administrative System, focusing on their interactions with students, faculty, and administrative staff. It will exclude implementation details and the integration services outside the university of Dayton’s existing infrastructure. This document provides an overview of the system, detailed functionalities, user interaction flows, system constraints, and underlying assumptions.
 
