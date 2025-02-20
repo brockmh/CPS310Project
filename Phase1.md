@@ -57,7 +57,7 @@ This analysis examines the core components of the University Administrative Syst
 - Any constraints that have been placed on the project (that are not, in themselves, requirements).
 
 ### E. Assumptions
-- One assumption we are going by is that within this phase their are no errors when using the system and it runs perfectly. This will chnage as we dive deeper into each diagram during the other phases, where we will have to account for these errors and how they will be addressed. 
+- One assumption we are going by is that within this phase there are no errors when using the system and it runs perfectly. This will chnage as we dive deeper into each diagram during the other phases, where we will have to account for these errors and how they will be addressed. 
 
 ---
 
