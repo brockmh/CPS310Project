@@ -35,7 +35,7 @@ This analysis examines the core components of the University Administrative Syst
 - Group members as Students
 
 ### E. Overview
-- This system is designed to make the university system easier to use by handling student applications, class registration, academic records, major changes, transcripts, and graduation. It focuses on four main groups—Students, Registrars, Faculty, and Administration— Using a Data-Flow Diagram, Entity-Relationship Diagram, and a Use-Case Diagram . The goal is to improve efficiency, reduce mistakes, and create a user-friendly system for students, teachers, and administrators. 
+- This system is designed to make the university system easier to use by handling student applications, class registration, academic records, major changes, transcripts, and graduation. It focuses on four main groups—Students, Registrars, Faculty, and Administration. Using a Data-Flow Diagram, Entity-Relationship Diagram, and a Use-Case Diagram . The goal is to improve efficiency, reduce mistakes, and create a user-friendly system for students, teachers, and administrators. 
 
 ---
 
