@@ -42,11 +42,25 @@ This analysis examines the core components of the University Administrative Syst
 ## 2. Overall Description
 
 ### A. Product Perspective
-- An overview of the environment that this system must operate within, including other software and hardware systems that will interface with this system.
+- The System is an integral component of the University of Dayton. It will integrate with student record systems, faculty portals, and registrar databases to help with administrative processes.
 
 ### B. Product Functions
-- An overview of the features to be provided by the software.
+- The University Administrative System will encompass the following core functionalities:
 
+1. Student Application Processing: Facilitates prospective student applications, status tracking, and admission decision notifications.
+
+2. Course Scheduling and Enrollment: Enables students to register for courses, monitor seat availability, and manage their academic schedules.
+
+3. Final Grade Submission: Provides faculty members with a place for submitting final grades.
+   
+4. Transcript Management: Allows students to securely view and retrieve their academic transcripts.
+
+5. Major Change Requests: Allows students to request major changes.
+
+6. Graduation Processing: Automates the verification of graduation eligibility, submission of required documentation, and final approval procedures.
+
+7. Class Withdrawal: Supports students in withdrawing from individual courses.
+   
 ### C. User Characteristics
 1. Student (StudentID, Name, DateOfBirth, Major)
 2. Registrar (RegistrarID, Name, Role,)
@@ -54,7 +68,13 @@ This analysis examines the core components of the University Administrative Syst
 4. Administration (AdminID, Name, Position)
 
 ### D. Constraints
-- Any constraints that have been placed on the project (that are not, in themselves, requirements).
+1. Regulatory: The system must follow FERPA to ensure user privacy.
+   
+2. Authentication: MFA must be enforced to prevent unauthorized access to sensitive data.
+
+3. Demand: The system must support increased user demand during peak periods, such as course registration and grade submissions, without performance degradation.
+
+4. Cost: Development and deployment must align with the university’s budget, prioritizing cost-effective solutions while maintaining system functionality.
 
 ### E. Assumptions
 - One assumption we are going by is that within this phase there are no errors when using the system and it runs perfectly. This will chnage as we dive deeper into each diagram during the other phases, where we will have to account for these errors and how they will be addressed. 
