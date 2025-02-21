@@ -95,8 +95,9 @@ This analysis examines the core components of the University Administrative Syst
 
 ### C. Use Cases
 #### i. Scenarios
-
 - Student Course Enrollment: A student logs into the system, looks for available courses, selects a course, and enrolls.
+  
+- Student Class Withdrawl: A student logs in to the portal, selects the course to withdraw from, provides a reason, and submits the request.
 
 - Faculty Grade Submission: A professor logs into the system, selects a course they are teaching, enters final grades for students, and 
   submits them for approval.
@@ -104,5 +105,6 @@ This analysis examines the core components of the University Administrative Syst
 - Major Change Request: A student submits a request to change their major, which is reviewed and either approved or denied by the registrar.
 
 - Graduation Processing: A student applies for graduation, their records are reviewed, and final approval is granted if requirements are met.
-  
+
+- Transcript Viewing: Student logs into the portal. navigates to the transcript section, and requests to view their transcripts. The system then retrieves the student's academic record, then generates it for the student to view/download
 #### ii. Diagram(s)
