@@ -103,6 +103,6 @@ This analysis examines the core components of the University Administrative Syst
 
 - Major Change Request: A student submits a request to change their major, which is reviewed and either approved or denied by the registrar.
 
--Graduation Processing: A student applies for graduation, their records are reviewed, and final approval is granted if requirements are met.
+- Graduation Processing: A student applies for graduation, their records are reviewed, and final approval is granted if requirements are met.
   
 #### ii. Diagram(s)
