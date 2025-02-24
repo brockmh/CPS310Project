@@ -1,5 +1,9 @@
 # System Analysis Document
-
+## Names
+Khagendra Mishra
+Greg Pooler
+Brock Hensley
+Tidiane Dia
 ## 1. Introduction
 
 ### A. Purpose
