@@ -108,3 +108,5 @@ This analysis examines the core components of the University Administrative Syst
 
 - Transcript Viewing: Student logs into the portal. navigates to the transcript section, and requests to view their transcripts. The system then retrieves the student's academic record, then generates it for the student to view/download
 #### ii. Diagram(s)
+![Use case diagram](https://github.com/user-attachments/assets/94a866b4-b70e-48cf-bc5f-b630aa3bff81)
+
