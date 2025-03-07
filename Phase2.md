@@ -1,4 +1,6 @@
 # Phase 2
- Brock Hensley
- Khagendra Mishra
- Tidiane Dia
+ 1. Brock Hensley
+ 2. Khagendra Mishra
+ 3. Tidiane Dia
+ 4. 
+  
