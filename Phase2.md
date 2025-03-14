@@ -8,7 +8,7 @@
 ![Entity drawio](https://github.com/user-attachments/assets/0f54143d-eb8f-4d0b-949b-41aa7823a0f4)
 
 ## Use Case Diagram Fix
-- Student Course Enrollment <br> 
+Student Course Enrollment <br> 
 Actors: Student, System  <br>
 
 Steps:  
@@ -18,7 +18,7 @@ Steps:
 4. The system updates the student’s academic schedule.
 5. The student receives a confirmation notification.
 
-- Final Grade Submission (Faculty)<br>
+Final Grade Submission (Faculty)<br>
 Actors: Faculty, System <br>
 
 Steps:
@@ -29,7 +29,7 @@ Steps:
 5. The system stores the grades and submits them for approval.
 6. Faculty receives confirmation.
 
-- Major Change Request <br>
+Major Change Request <br>
 Actors: Student, Registrar, System <br>
 
 Steps:
@@ -41,7 +41,7 @@ Steps:
 6. If approved, the system updates the student’s record.
 7. If denied, the student is notified with a reason.
 
-- Graduation Processing <br>
+Graduation Processing <br>
 Actors: Student, Registrar, Admin, System <br>
 
 Steps:
@@ -52,7 +52,7 @@ Steps:
 5. Admin grants final approval.
 6. The system updates the student’s status and sends a confirmation.
 
-- Transcript Viewing & Generation <br>
+Transcript Viewing & Generation <br>
 Actors: Student, Registrar, System <br>
 
 Steps:
@@ -62,7 +62,7 @@ Steps:
 4. The system generates the transcript.
 5. Student views/downloads the transcript.
 
-- Withdrawing from a Class <br> 
+Withdrawing from a Class <br> 
 Actors: Student, Registrar, System <br>
 
 Steps:
