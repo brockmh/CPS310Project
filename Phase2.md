@@ -8,45 +8,72 @@
 ![Entity drawio](https://github.com/user-attachments/assets/0f54143d-eb8f-4d0b-949b-41aa7823a0f4)
 
 ## Use Case Diagram Fix
-1️. Student Course Enrollment
-Actors: Student, System
- Steps:
-Student logs into the system.
-The system displays available courses.
-The student selects a course and enrolls.
-The system updates the student’s academic schedule.
-The student receives a confirmation notification.
+- Student Course Enrollment <br> 
+Actors: Student, System  <br>
 
-2️. Final Grade Submission (Faculty)
-Actors: Faculty, System
- Steps:
-Faculty logs into the system.
-The system displays the courses they are teaching.
-Faculty selects a course.
-Faculty enters final grades for each student.
-The system stores the grades and submits them for approval.
-Faculty receives confirmation.
+Steps:  
+1. Student logs into the system.
+2. The system displays available courses.
+3. The student selects a course and enrolls.
+4. The system updates the student’s academic schedule.
+5. The student receives a confirmation notification.
 
-3️. Major Change Request
-Actors: Student, Registrar, System
- Steps:
-Student logs into the system.
-Student navigates to the “Major Change” request section.
-Student selects a new major and submits the request.
-The system forwards the request to the registrar.
-The registrar reviews the request.
-If approved, the system updates the student’s record.
-If denied, the student is notified with a reason.
+- Final Grade Submission (Faculty)<br>
+Actors: Faculty, System <br>
 
-4. Graduation Processing
-Actors: Student, Registrar, Admin, System
- Steps:
-Student applies for graduation through the system.
-The system checks eligibility requirements.
-The registrar reviews the application.
-If requirements are met, the system forwards the application to the admin.
-Admin grants final approval.
-The system updates the student’s status and sends a confirmation.
+Steps:
+1. Faculty logs into the system.
+2. The system displays the courses they are teaching.
+3. Faculty selects a course.
+4. Faculty enters final grades for each student.
+5. The system stores the grades and submits them for approval.
+6. Faculty receives confirmation.
+
+- Major Change Request <br>
+Actors: Student, Registrar, System <br>
+
+Steps:
+1. Student logs into the system.
+2. Student navigates to the “Major Change” request section.
+3. Student selects a new major and submits the request.
+4. The system forwards the request to the registrar.
+5. The registrar reviews the request.
+6. If approved, the system updates the student’s record.
+7. If denied, the student is notified with a reason.
+
+- Graduation Processing <br>
+Actors: Student, Registrar, Admin, System <br>
+
+Steps:
+1. Student applies for graduation through the system.
+2. The system checks eligibility requirements.
+3. The registrar reviews the application.
+4. If requirements are met, the system forwards the application to the admin.
+5. Admin grants final approval.
+6. The system updates the student’s status and sends a confirmation.
+
+- Transcript Viewing & Generation <br>
+Actors: Student, Registrar, System <br>
+
+Steps:
+1. Student logs into the system.
+2. Student navigates to the transcript section.
+3. The system retrieves the student’s academic record.
+4. The system generates the transcript.
+5. Student views/downloads the transcript.
+
+- Withdrawing from a Class <br> 
+Actors: Student, Registrar, System <br>
+
+Steps:
+1. Student logs into the system.
+2. Student selects a course to withdraw from.
+3. Student provides a reason.
+4. The system processes the withdrawal request.
+5. The system updates the student’s schedule.
+6. The student receives confirmation.
+
+
 
 
 
