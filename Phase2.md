@@ -1,3 +1,7 @@
+# Phase 1 Feedback
+- Use 0 to identify the system in DFD.  Some entities in the entity relationship diagram are actually actions, not the required people, places, or things.  Use case scenarios are incomplete.  Every bubble/use case in the diagram requires a scenario.
+
+
 # Phase 2
  1. Brock Hensley
  2. Khagendra Mishra
