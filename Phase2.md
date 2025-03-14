@@ -7,7 +7,7 @@
 ## Entity Relationship Diagram Fix
 ![Entity drawio](https://github.com/user-attachments/assets/0f54143d-eb8f-4d0b-949b-41aa7823a0f4)
 
-## Use Case Diagram Fix
+## Use Case Scenerio Fix
 Student Course Enrollment <br> 
 Actors: Student, System  <br>
 
