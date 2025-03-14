@@ -5,6 +5,8 @@
  ![DFD drawio](https://github.com/user-attachments/assets/95113424-b6cc-43a0-8747-f1d54f527f53)
 
 ## Entity Relationship Diagram Fix
+![Entity drawio](https://github.com/user-attachments/assets/0f54143d-eb8f-4d0b-949b-41aa7823a0f4)
+
 
 
 
