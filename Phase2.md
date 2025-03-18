@@ -97,11 +97,27 @@ Steps:
 ![Child drawio](https://github.com/user-attachments/assets/6ebc904d-d403-460f-b904-f957934e60b9)
 
 
-# Data Dictionary
-## Data Flow Description
+## Data Dictionary
 
-## Data Store Description
+Data Flow Descriptions
 
-## Data Element Description
+<img width="622" alt="Screenshot 2025-03-18 at 6 09 47 PM" src="https://github.com/user-attachments/assets/e893269d-1fcf-4a42-b559-788c076c1507" />
+
+Data Store Descriptions
+
+<img width="604" alt="Screenshot 2025-03-18 at 6 10 13 PM" src="https://github.com/user-attachments/assets/df404d20-1023-4423-bea4-90dc05227da9" />
+
+Data Element Descriptions
+
+<img width="549" alt="Screenshot 2025-03-18 at 6 15 51 PM" src="https://github.com/user-attachments/assets/e5e94d71-4ad6-47b7-bc83-432f72b2add1" />
+
+## Process Specifications
+
+Process
+
+
+Structured Decision
+
+
 
   
