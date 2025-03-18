@@ -94,6 +94,7 @@ Steps:
 
 ## Child Diagram
 
+![Child drawio](https://github.com/user-attachments/assets/6ebc904d-d403-460f-b904-f957934e60b9)
 
 
 # Data Dictionary
