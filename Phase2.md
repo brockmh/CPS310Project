@@ -114,10 +114,56 @@ Data Element Descriptions
 ## Process Specifications
 
 Process
+1. Application Submission 
+- Trigger: Student submits an application
+- Validation: Check if all required fields are complete 
+- Processing: If complete, process the application; otherwise, return for correction
+- Output: Student Application Data stored in Student Records (DS1)
 
+2. Course Enrollment
+- Trigger: Student enrolls in a course
+- Validation: Ensure the course is available and the student meets prerequisites
+- Processing: If valid, update Enrollment Database (DS3)
+- Output: Course Enrollment Data stored in Enrollment DB
+
+3. Grade Submission 
+- Trigger: Faculty submits final grades
+- Validation: Verify grades meet academic standards and are approved by the registrar
+- Processing: If verified, update Grade Data
+- Output: Grade data stored in Student Records (DS1)
+
+4. Transcript Request
+- Trigger: Student requests a transcript 
+- Validation: Verify student identity and eligibility 
+- Processing: If verified, generate and provide the transcript
+- Output: Transcript Data retrieved from Student Records (DS1)
+
+5. Graduation Request
+- Trigger: Student applies for graduation
+- Validation: Ensure all required credits are completed
+- Processing: If approved, update Graduation Request Data
+- Output: Graduation Status updated in Graduation Requests (DS4)
 
 Structured Decision
 
+1. Application Submission Decision
+- IF application is complete → Process application.
+- ELSE → Return for correction.
 
+2. Course Enrollment Decision
+- IF course has availability AND student meets prerequisites → Enroll student.
+- ELSE → Reject enrollment.
+
+3. Grade Submission Decision
+- IF grades are verified by the registrar → Update student record.
+- ELSE → Request faculty review.
+
+4. Transcript Request Decision
+- IF student identity is verified → Generate transcript.
+- ELSE → Reject request.
+
+5. Graduation Request Decision
+- IF all requirements are met AND administrator approves → Update graduation status.
+- ELSE → Notify student of deficiencies.
 
   
