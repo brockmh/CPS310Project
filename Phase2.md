@@ -91,6 +91,7 @@ Steps:
 
 ![Diagram0 drawio](https://github.com/user-attachments/assets/96ac605b-2621-40d5-a886-fbdf59963c83)
 
+This Level 0 Data Flow Diagram (DFD) shows how student records are managed in a school or university. It illustrates how students apply for courses, request transcripts, change majors, withdraw from classes, and apply for graduation. The registrar processes applications, verifies enrollments, and updates records, while faculty submit grades that update transcripts. Administration handles graduation approvals. Different processes connect to data stores that keep track of student records, course enrollments, and graduation requests. This system ensures that all academic information stays accurate and organized, making things run smoothly for students and staff.
 
 ## Child Diagram
 
