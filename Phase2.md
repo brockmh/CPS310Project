@@ -97,6 +97,7 @@ This Level 0 Data Flow Diagram (DFD) shows how student records are managed in th
 
 ![Child drawio](https://github.com/user-attachments/assets/6ebc904d-d403-460f-b904-f957934e60b9)
 
+The child diagram breaks down the course registration process in the university, detailing how student enrollment is handled step by step. First, the system verifies a student’s eligibility by checking prerequisites in the prerequisites database. If eligible, course availability is checked before proceeding with registration. The enrollment database stores current enrollment data and processes registration details. Once registration is completed, the system generates an enrollment confirmation, updating student records and notifying the student. This detailed breakdown ensures that students can only enroll in courses they qualify for while maintaining accurate academic records.
 
 ## Data Dictionary
 
