@@ -91,13 +91,13 @@ Steps:
 
 ![Diagram0 drawio](https://github.com/user-attachments/assets/96ac605b-2621-40d5-a886-fbdf59963c83)
 
-This Level 0 Data Flow Diagram (DFD) shows how student records are managed in the university. It illustrates how students apply for courses, request transcripts, change majors, withdraw from classes, and apply for graduation. The registrar processes applications, verifies enrollments, and updates records, while faculty submit grades that update transcripts. Administration handles graduation approvals. Different processes connect to data stores that keep track of student records, course enrollments, and graduation requests. This system ensures that all academic information stays accurate and organized, making things run smoothly for students and staff.
+This Level 0 Data Flow Diagram (DFD) shows how student records are managed in the university. It illustrates how students apply for courses, request transcripts, change majors, withdraw from classes, and apply for graduation. The registrar processes applications, verifies enrollments, and updates records, while faculty submit grades that update transcripts. Administration handles graduation approvals. Different processes connect to data stores that keep track of student records, course enrollments, and graduation requests. 
 
 ## Child Diagram
 
 ![Child drawio](https://github.com/user-attachments/assets/6ebc904d-d403-460f-b904-f957934e60b9)
 
-The child diagram breaks down the course registration process in the university, detailing how student enrollment is handled step by step. First, the system verifies a student’s eligibility by checking prerequisites in the prerequisites database. If eligible, course availability is checked before proceeding with registration. The enrollment database stores current enrollment data and processes registration details. Once registration is completed, the system generates an enrollment confirmation, updating student records and notifying the student. This detailed breakdown ensures that students can only enroll in courses they qualify for while maintaining accurate academic records.
+The child diagram breaks down the course registration process in the university, detailing how student enrollment is handled step by step. First, the system verifies a student’s eligibility by checking prerequisites in the prerequisites database. If eligible, course availability is checked before proceeding with registration. The enrollment database stores current enrollment data and processes registration details. Once registration is completed, the system generates an enrollment confirmation, updating student records and notifying the student. This breakdown ensures that students can only enroll in courses they qualify for while maintaining accurate academic records.
 
 ## Data Dictionary
 
