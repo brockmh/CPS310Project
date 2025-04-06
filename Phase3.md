@@ -11,9 +11,12 @@
 
 
 ## Graduating Processing
+![image](https://github.com/user-attachments/assets/540b0e77-6311-457f-aa4f-df032b129869)
 
 
 ## Transcript Viewing & Generation
+![image](https://github.com/user-attachments/assets/ca6c3040-0e6e-45d7-a3ec-4a07589b8af7)
 
 
 ## Withdrawing from a Class
+![image](https://github.com/user-attachments/assets/55298f13-535c-40db-8468-1226dc3d41f9)
