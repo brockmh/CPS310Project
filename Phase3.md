@@ -41,7 +41,7 @@
 ## Withdrawing from a Class
 
 
-# Single Diagram 
+# Class Diagram 
 
 ## Student Course Enrollment
 
