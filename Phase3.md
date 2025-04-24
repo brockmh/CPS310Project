@@ -25,21 +25,27 @@
 
 ## Student Course Enrollment
 
+![Phase3 drawio](https://github.com/user-attachments/assets/7935b211-ea4f-40a2-b2c4-846522d3630d)
 
 ## Final Grade Submission
 
+![Phase3 drawio (1)](https://github.com/user-attachments/assets/f27e7adf-164b-43bd-bca7-8ddfa9b27e45)
 
 ## Major Change Request
 
+![Phase3 drawio (2)](https://github.com/user-attachments/assets/71c7a7bd-4627-4934-9c9d-60855ca3126a)
 
 ## Graduation Processing
 
+![Phase3 drawio (3)](https://github.com/user-attachments/assets/f4914aef-1994-4acc-a52a-d703a58b9521)
 
 ## Transcript Viewing & Generation
 
+![Phase3 drawio (4)](https://github.com/user-attachments/assets/7016d9e7-7a4e-43a6-9e11-80341dc1e8a4)
 
 ## Withdrawing from a Class
 
+![Phase3 drawio (5)](https://github.com/user-attachments/assets/76494863-537a-4078-87fd-4e6575485834)
 
 # Class Diagram 
 
