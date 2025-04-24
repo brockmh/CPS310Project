@@ -61,6 +61,7 @@
 
 
 ## Transcript Viewing & Generation
+![Student course Enrollment-Page-5 drawio](https://github.com/user-attachments/assets/fa908253-4081-4c18-8238-ccff0a6515b0)
 
 
 ## Withdrawing from a Class
