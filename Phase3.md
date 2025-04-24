@@ -65,6 +65,8 @@
 
 
 ## Withdrawing from a Class
+![Student course Enrollment-Page-6 drawio](https://github.com/user-attachments/assets/a3e37e64-b165-4439-8955-344251b2d04f)
+
 
 # Statechart Diagram
 
