@@ -57,6 +57,7 @@
 
 
 ## Graduation Processing
+![Student course Enrollment-Page-4 drawio](https://github.com/user-attachments/assets/aa713a8c-c966-448e-8c63-c398fa7e587f)
 
 
 ## Transcript Viewing & Generation
