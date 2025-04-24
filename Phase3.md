@@ -44,6 +44,8 @@
 # Class Diagram 
 
 ## Student Course Enrollment
+![Student course Enrollment drawio](https://github.com/user-attachments/assets/3f7f4b2a-6523-4445-ae4a-57c359e33b0e)
+
 
 
 ## Final Grade Submission
