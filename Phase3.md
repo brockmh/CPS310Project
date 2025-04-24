@@ -49,6 +49,7 @@
 
 
 ## Final Grade Submission
+![Student course Enrollment-Page-2 drawio](https://github.com/user-attachments/assets/98171faf-4099-4467-87b3-ec3154d60284)
 
 
 ## Major Change Request
