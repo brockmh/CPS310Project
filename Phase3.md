@@ -53,6 +53,7 @@
 
 
 ## Major Change Request
+![Student course Enrollment-Page-3 drawio](https://github.com/user-attachments/assets/11365e5f-8d6e-4ecf-b57f-402998318b70)
 
 
 ## Graduation Processing
