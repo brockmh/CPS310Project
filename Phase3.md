@@ -91,6 +91,7 @@
 
 
 ## Graduation Processing
+![StudentGraduation drawio](https://github.com/user-attachments/assets/da4d7d0d-056b-46aa-bd17-bdf3c3cdd185)
 
 
 ## Transcript Viewing & Generation
