@@ -99,3 +99,4 @@
 
 
 ## Withdrawing from a Class
+![WithdrawFromClass drawio](https://github.com/user-attachments/assets/f73e5238-0440-4be0-8976-e34b5b7f9332)
