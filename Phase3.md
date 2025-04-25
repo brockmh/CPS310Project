@@ -83,7 +83,8 @@
 
 ## Final Grade Submission
 
-![StateChartStudentCourseEnrollment drawio](https://github.com/user-attachments/assets/19415f6f-6ed3-4970-92fc-730a9274c101)
+![FinalGradeSubmissionStatechart drawio](https://github.com/user-attachments/assets/bb0f9c96-9438-42ca-bfdf-0e1c3e523cb3)
+
 
 ## Major Change Request
 
