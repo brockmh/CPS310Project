@@ -87,6 +87,7 @@
 
 
 ## Major Change Request
+![StudentMajorChangeStateChart drawio](https://github.com/user-attachments/assets/aae769be-bff8-4e33-bbb5-944193c63f6e)
 
 
 ## Graduation Processing
