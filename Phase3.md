@@ -95,6 +95,7 @@
 
 
 ## Transcript Viewing & Generation
+![TranscriptViewing drawio](https://github.com/user-attachments/assets/b036a885-1469-4db4-86f1-07022ded8ce5)
 
 
 ## Withdrawing from a Class
