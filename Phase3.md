@@ -78,6 +78,8 @@
 
 ## Student Course Enrollment
 
+![StateChartStudentCourseEnrollment drawio](https://github.com/user-attachments/assets/dbe5d181-a584-4ce2-b293-0a0d7425a739)
+
 
 ## Final Grade Submission
 
